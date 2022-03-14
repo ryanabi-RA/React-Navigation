@@ -19,14 +19,22 @@ expo init nama_project
 Next: jalankan didalam folder project || cd nama_project 
 
 4. Install React Navigation
-Run : ```npm install @react-navigation/native```
-Run : ```expo install react-native-screens react-native-safe-area-context```
+```
+npm install @react-navigation/native
+```
+```
+expo install react-native-screens react-native-safe-area-context
+```
 
 5. Install Stack Navigator
-Run : ```npm install @react-navigation/native-stack```
+```
+npm install @react-navigation/native-stack
+```
 
 6. Start Project
-Run : ```expo start```
+```
+expo start
+```
 
 add :
 ```
